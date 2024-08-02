@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# wget -qO- https://raw.githubusercontent.com/ngxson/public-assets/main/install-windows-gcp.sh | sudo bash
+# wget -qO- https://raw.githubusercontent.com/tonyizdabezt/congenial/main/install-windows-gcp.sh | sudo bash
 
 IMAGE_URL="https://dl.lamp.sh/vhd/tiny11_23h2_uefi.xz"
 
